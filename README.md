@@ -1,0 +1,1 @@
+# diana.krempels_qa_auto_course
